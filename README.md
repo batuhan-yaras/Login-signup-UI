@@ -21,4 +21,5 @@ If you finally signed-up, you will see your username and password in the databas
 ![signup](https://user-images.githubusercontent.com/118076077/211367732-36653aa4-54e8-42a0-904f-43162e2ccdea.png)
 ___
 Then you can login, because your informations are in the database rigth now :)<br>
-- You will need to use DB Browser (SQLite) for create the database.db
+
+- You will need to use DB Browser (SQLite)
