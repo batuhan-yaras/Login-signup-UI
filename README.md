@@ -1,4 +1,4 @@
-# Login-signup-UI
+# Login-signup UI
 This is a basic user interface with login and sign-up functions.
 
 ### Interface:
